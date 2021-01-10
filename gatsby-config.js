@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Wenchin's Code Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Wenchin Chuang`,
+      summary: `who enjoys building intersting stuff and learning about software development.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A software engineering blog.`,
+    siteUrl: `https://wenchin77.github.io`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
     },
   },
   plugins: [
@@ -53,7 +53,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-101323483-1`,
       },
     },
     `gatsby-plugin-feed`,
