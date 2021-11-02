@@ -1,7 +1,7 @@
 ---
 title: "關於"
-date: 2021-02-22T11:53:49+08:00
-lastmod: 2021-02-22T11:53:49+08:00
+date: 2021-02-22
+lastmod: 2021-02-22
 keywords: "about"
 type: "about"
 ---

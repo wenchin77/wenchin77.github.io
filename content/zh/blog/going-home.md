@@ -1,8 +1,10 @@
 ---
 title: "回家"
-date: 2019-03-29T11:53:49+08:00
-lastmod: 2019-03-29T11:53:49+08:00
+date: 2019-03-29
+lastmod: 2019-03-29
 description: "回到起點、再到那些起點的後來。"
+thumbnail: https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80
+
 ---
 
 加班到十點是場意外。
@@ -40,3 +42,7 @@ description: "回到起點、再到那些起點的後來。"
 而明天的我也會開始打包，準備搬到下一個公寓。
 
 那又會是另一段故事了。
+
+---
+
+Photo by <a href="https://unsplash.com/@andyjh07?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andy Holmes</a> on <a href="https://unsplash.com/s/photos/universe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

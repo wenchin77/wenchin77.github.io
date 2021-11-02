@@ -36,6 +36,7 @@ DefaultContentLanguageInSubdir = true
     [languages.zh.params]
       introTitle = "寫些什麼"
       introSubtitle = "一些時光碎片裡的感受、一些漂泊途中的啟發、一些與靈魂碰撞的衝擊、一些如夢似幻的冥想"
+      introPhoto = "/home_picture.JPG"
     [[languages.zh.menu.main]]
         name = "文章"
         url = "blog"
