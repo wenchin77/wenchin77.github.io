@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "article",
-      "blockquote",
       "body",
       "circle",
       "defs",
@@ -131,8 +130,7 @@
       "z-10"
     ],
     "ids": [
-      "a",
-      "photo-by-a-hrefhttpsunsplashcomandyjh07utm_sourceunsplashutm_mediumreferralutm_contentcreditcopytextandy-holmesa-on-a-hrefhttpsunsplashcomsphotosuniverseutm_sourceunsplashutm_mediumreferralutm_contentcreditcopytextunsplasha"
+      "a"
     ]
   }
 }

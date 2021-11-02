@@ -3,7 +3,7 @@ metaDataFormat = "yaml"
 title = "Wenchin's Blog"
 theme = "blist"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "zh"
 DefaultContentLanguageInSubdir = true
 [languages]
   [languages.en]
