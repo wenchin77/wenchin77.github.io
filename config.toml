@@ -1,4 +1,97 @@
-title = "Wenchin's Blog"
 baseURL = 'https://wenchin77.github.io'
-languageCode = "en-us"
-theme = "ananke"
+metaDataFormat = "yaml"
+title = "Wenchin's Blog"
+theme = "blist"
+
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    contentDir = "content/en" #English
+    weight = 1
+    languageName = "English"
+    [languages.en.params]
+      introTitle = "On Stuff"
+      introSubtitle = "Some thoughts, dreams, stories and inspirations"
+    [[languages.en.menu.main]]
+        name = "Blog"
+        url = "blog"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "About"
+        url = "page/about/"
+        weight = 2
+
+    [[languages.en.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 3
+
+  [languages.zh]
+    contentDir = "content/zh" # 中文
+    weight = 2
+    languageName = "中文"
+    title = "Wenchin 的文字"
+    [languages.zh.params]
+      introTitle = "寫些什麼"
+      introSubtitle = "一些時光碎片裡的感受、一些漂泊途中的啟發、一些與靈魂碰撞的衝擊、一些如夢似幻的冥想"
+    [[languages.zh.menu.main]]
+        name = "文章"
+        url = "blog"
+        weight = 1
+
+    [[languages.zh.menu.main]]
+        name = "關於"
+        url = "page/about/"
+        weight = 2
+
+    [[languages.zh.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 3
+
+[params]
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+  
+  # Enable search in header
+  enableSearch = false
+
+  # Custom copyright - optional
+  copyright = "Copyright © 2021 - Wenchin Chuang · All rights reserved"
+  favicon = "/favicon.svg"
+
+  # Color for the intro details and social links block, not applicable for dark mode
+  # Supported values: Any color from TailwindCSS default colors
+  # Reference: https://tailwindcss.com/docs/customizing-colors
+  ascentColor = "bg-blue-100"
+
+[params.homepage.social]
+  # Global params xommon for both languages
+  title = "Follow me"
+  description = "But first wait for me to set up social media..."
+  # twitter = "https://twitter.com/"
+  # linkedin = "https://linkedin.com/in/"
+  # github = "https://github.com/"
+  # medium = "https://medium.com/"
+  # reddit = "https://reddit.com/"
+  # dribbble = "https://dribbble.com/"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
