@@ -2,6 +2,7 @@ baseURL = 'https://wenchin77.github.io'
 metaDataFormat = "yaml"
 title = "Wenchin's Blog"
 theme = "blist"
+googleAnalytics = 'UA-101323483-1'
 
 DefaultContentLanguage = "zh"
 DefaultContentLanguageInSubdir = true
