@@ -61,7 +61,7 @@ DefaultContentLanguageInSubdir = true
   enableSearch = false
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Wenchin Chuang · All rights reserved"
+  copyright = "Copyright © 2021 - Wenchin · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
