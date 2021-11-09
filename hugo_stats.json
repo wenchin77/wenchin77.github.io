@@ -9,6 +9,7 @@
       "div",
       "footer",
       "h1",
+      "h2",
       "h5",
       "head",
       "header",
@@ -130,7 +131,8 @@
       "z-10"
     ],
     "ids": [
-      "a"
+      "a",
+      "heading"
     ]
   }
 }
