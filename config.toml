@@ -1,6 +1,6 @@
 baseURL = 'https://wenchin77.github.io'
 metaDataFormat = "yaml"
-title = "Wenchin's Blog"
+title = "Good waves & good wifi"
 theme = "blist"
 googleAnalytics = 'UA-101323483-1'
 
@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "On Stuff"
-      introSubtitle = "Some thoughts, dreams, stories and inspirations"
+      introTitle = "Life as a digital nomad with a board"
+      introSubtitle = "always on the hunt for good waves and good wifi :)"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -33,10 +33,10 @@ DefaultContentLanguageInSubdir = true
     contentDir = "content/zh" # 中文
     weight = 2
     languageName = "中文"
-    title = "Wenchin 的文字"
+    title = "Good waves & good wifi"
     [languages.zh.params]
-      introTitle = "寫些什麼"
-      introSubtitle = "一些時光碎片裡的感受、一些漂泊途中的啟發、一些與靈魂碰撞的衝擊、一些如夢似幻的冥想"
+      introTitle = "在海邊遠距工作"
+      introSubtitle = "不斷追逐著好浪和好網速的生活"
       introPhoto = "/home_picture.JPG"
     [[languages.zh.menu.main]]
         name = "文章"
