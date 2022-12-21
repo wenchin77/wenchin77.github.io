@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Life as a digital nomad with a board"
-      introSubtitle = "always on the hunt for good waves and good wifi :)"
+      introTitle = "Working from the Earth"
+      introSubtitle = "Life with good waves, good wifi and good people :)"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -35,8 +35,8 @@ DefaultContentLanguageInSubdir = true
     languageName = "中文"
     title = "Good waves & good wifi"
     [languages.zh.params]
-      introTitle = "在海邊遠距工作"
-      introSubtitle = "不斷追逐著好浪和好網速的生活"
+      introTitle = "在天涯海角遠距工作"
+      introSubtitle = "追逐著好浪和好網速、探索著存在意義與種種關係的生活"
       introPhoto = "/home_picture.JPG"
     [[languages.zh.menu.main]]
         name = "文章"
