@@ -2,7 +2,8 @@
 title: "轉角咖啡店的你好與再見"
 date: 2021-11-09
 lastmod: 2021-11-09
-description: "飄飄何所似？天地一沙鷗。"
+description: "飄飄何所似？天地一沙鷗"
+tags: ["遠距", "台北"]
 thumbnail: https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1742&q=80
 
 ---

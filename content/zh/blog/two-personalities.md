@@ -2,7 +2,8 @@
 title: "兩種人格"
 date: 2021-06-25
 lastmod: 2019-06-25
-description: "把到目前的人生當成一場社會實驗，觀察到的有趣結果。"
+description: "把到目前的人生當成一場社會實驗，觀察到的有趣結果"
+tags: ["自我觀察"]
 thumbnail: https://images.unsplash.com/photo-1603127679990-f0ada68ca5a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80
 
 ---

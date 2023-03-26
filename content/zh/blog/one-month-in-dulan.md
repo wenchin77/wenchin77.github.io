@@ -2,7 +2,8 @@
 title: "去都蘭流浪一個月"
 date: 2022-02-17
 lastmod: 2022-02-17
-description: "衝浪、工作、泡溫泉、生火。"
+description: "衝浪、工作、泡溫泉、生火"
+tags: ["遠距", "衝浪", "台東", "流浪"]
 thumbnail: https://i.imgur.com/t1hA8B3.jpg
 
 ---

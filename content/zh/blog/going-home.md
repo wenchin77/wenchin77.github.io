@@ -2,7 +2,8 @@
 title: "回家"
 date: 2019-03-29
 lastmod: 2019-03-29
-description: "回到起點、再到那些起點的後來。"
+description: "回到起點、再到那些起點的後來"
+tags: ["家"]
 thumbnail: https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80
 
 ---
