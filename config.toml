@@ -1,54 +1,32 @@
 baseURL = 'https://wenchin77.github.io'
 metaDataFormat = "yaml"
-title = "Good waves & good wifi"
+title = "逐浪點而居"
 theme = "blist"
 googleAnalytics = 'UA-101323483-1'
 
-DefaultContentLanguage = "zh"
+DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]
-  [languages.en]
-    contentDir = "content/en" #English
-    weight = 1
-    languageName = "English"
-    [languages.en.params]
-      introTitle = "Working from the Earth"
-      introSubtitle = "Life with good waves, good wifi and good people :)"
-    [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.en.menu.main]]
-        name = "About"
-        url = "page/about/"
-        weight = 2
-
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-
-  [languages.zh]
+  [languages.en] # 使用英文 config
     contentDir = "content/zh" # 中文
-    weight = 2
+    weight = 1
     languageName = "中文"
-    title = "Good waves & good wifi"
-    [languages.zh.params]
-      introTitle = "在天涯海角遠距工作"
-      introSubtitle = "追逐著好浪和好網速、探索著存在意義與種種關係的生活"
+    title = "逐浪點而居"
+    [languages.en.params]
+      introTitle = "天涯海角遠距工作去"
+      introSubtitle = "* 幫我想一下這裡要放什麼 *"
       introPhoto = "/home_picture.JPG"
-    [[languages.zh.menu.main]]
+    [[languages.en.menu.main]]
         name = "文章"
         url = "blog"
         weight = 1
 
-    [[languages.zh.menu.main]]
+    [[languages.en.menu.main]]
         name = "關於"
         url = "page/about/"
         weight = 2
 
-    [[languages.zh.menu.main]]
+    [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
         weight = 3
