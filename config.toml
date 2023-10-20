@@ -1,6 +1,6 @@
 baseURL = 'https://wenchin77.github.io'
 metaDataFormat = "yaml"
-title = "逐浪點而居"
+title = "把地球當辦公室"
 theme = "blist"
 googleAnalytics = 'UA-101323483-1'
 
@@ -11,11 +11,11 @@ DefaultContentLanguageInSubdir = true
     contentDir = "content/zh" # 中文
     weight = 1
     languageName = "中文"
-    title = "逐浪點而居"
+    title = "把地球當辦公室"
     [languages.en.params]
-      introTitle = "天涯海角遠距工作去"
-      introSubtitle = "* 幫我想一下這裡要放什麼 *"
-      introPhoto = "/home_picture.JPG"
+      introTitle = "把地球當辦公室"
+      introSubtitle = "天涯海角遠距工作去"
+      introPhoto = "/home_picture.png"
     [[languages.en.menu.main]]
         name = "文章"
         url = "blog"
