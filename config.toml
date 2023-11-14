@@ -1,6 +1,6 @@
 baseURL = 'https://wenchin77.github.io'
 metaDataFormat = "yaml"
-title = "把地球當辦公室"
+title = "在地球上迷了路"
 theme = "blist"
 googleAnalytics = 'UA-101323483-1'
 
@@ -11,10 +11,10 @@ DefaultContentLanguageInSubdir = true
     contentDir = "content/zh" # 中文
     weight = 1
     languageName = "中文"
-    title = "把地球當辦公室"
+    title = "在地球上迷了路"
     [languages.en.params]
-      introTitle = "把地球當辦公室"
-      introSubtitle = "天涯海角遠距工作去"
+      introTitle = "在地球上迷了路"
+      introSubtitle = "天涯海角的流浪與覺醒"
       introPhoto = "/home_picture.png"
     [[languages.en.menu.main]]
         name = "文章"
