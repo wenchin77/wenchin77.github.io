@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>遠距 on 把地球當辦公室</title>
+    <title>遠距 on 在地球上迷了路</title>
     <link>https://wenchin77.github.io/en/tags/%E9%81%A0%E8%B7%9D/</link>
-    <description>Recent content in 遠距 on 把地球當辦公室</description>
+    <description>Recent content in 遠距 on 在地球上迷了路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wenchin77.github.io/en/tags/%E9%81%A0%E8%B7%9D/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wenchin77.github.io/en/tags/%E9%81%A0%E8%B7%9D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>去都蘭流浪一個月</title>
       <link>https://wenchin77.github.io/en/blog/one-month-in-dulan/</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://wenchin77.github.io/en/blog/one-month-in-dulan/</guid>
       <description>你好都蘭 去年年底決定今年一月要離開台北、去別處遠距工作後，我就決定用打工換宿的方式，去東部海岸生活、工作，有空的話去追追浪。
 丟了幾間都蘭、佳樂水的民宿，看他們回覆的工作內容和交談的感覺，最後選了四年前曾待過兩晚、位於都蘭的衝浪民宿。
@@ -64,12 +64,10 @@
 寂寞感發作起來很讓我恐慌。我羨慕那些性格、情緒穩定的人們，不用處理這個問題。像我就要想方設法避開它或面對它。
 過著自在的遊牧生活，卻對缺乏人類情感連結感到不安，是種令人矛盾的興奮。可能自由的代價就是要適應某種程度的孤獨感吧。</description>
     </item>
-    
     <item>
       <title>轉角咖啡店的你好與再見</title>
       <link>https://wenchin77.github.io/en/blog/cafe-hello-goodbye-existing/</link>
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://wenchin77.github.io/en/blog/cafe-hello-goodbye-existing/</guid>
       <description>這個月的週二中午，我的行程有點瘋狂：十點半到十二點打拳、十二點到十二點半和同事們線上開會。
 因為中間沒有喘息的空檔，所以我每次打完拳都要直奔旁邊的素食網美店。導致一連串的道歉必須發生：在拳館先跟教練道歉早退、在 Google Meet 跟同事道歉遲到、再跟網美店店員道歉說我會先用電腦再點餐。
@@ -121,6 +119,5 @@
 「你常常衝浪嗎？」一個咖啡師忙完問我。
 「最近有點常去，」我說，「曬得很明顯對嗎？」</description>
     </item>
-    
   </channel>
 </rss>
