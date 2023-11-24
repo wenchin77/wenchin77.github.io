@@ -2,7 +2,7 @@ baseURL = 'https://wenchin77.github.io'
 metaDataFormat = "yaml"
 title = "在地球上迷了路"
 theme = "blist"
-googleAnalytics = 'UA-101323483-1'
+googleAnalytics = 'G-2H09ZZ2TDE'
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
