@@ -5,7 +5,7 @@ theme = "blist"
 googleAnalytics = 'G-2H09ZZ2TDE'
 
 DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = false
 [languages]
   [languages.en] # 使用英文 config
     contentDir = "content/en"
