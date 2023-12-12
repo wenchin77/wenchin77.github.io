@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]
   [languages.en] # 使用英文 config
-    contentDir = "content/zh" # 中文
+    contentDir = "content/en"
     weight = 1
     languageName = "中文"
     title = "在地球上迷了路"
