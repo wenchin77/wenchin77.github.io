@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 在地球上迷了路</title>
+    <link>https://wenchin77.github.io/page/</link>
+    <description>Recent content in Pages on 在地球上迷了路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wenchin77.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>關於</title>
+      <link>https://wenchin77.github.io/page/about/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://wenchin77.github.io/page/about/</guid>
+      <description>我 1994 年出生，管理學院畢業幾年後跑去學寫程式、一路走來一直很愛文字的人。&#xA;2021 年年底開始學衝浪，幾個月後換到一份完全遠距的工作，從此開啟了逐浪點而居的生活。&#xA;這網站 主要寫遠距工作的種種，另外也寫生活、寫人、寫大海等等。&#xA;網站我架的，有 bug 跟我說。</description>
+    </item>
+  </channel>
+</rss>
