@@ -2,8 +2,8 @@
 title: "坦尚尼亞三天兩夜的火車"
 date: 2023-12-14
 lastmod: 2023-12-14
-description: "第一次去東非大陸"
-tags: ["遠距", "衝浪", "坦尚尼亞", "遊牧"]
+description: "在東非大陸不搭飛機搭火車"
+tags: ["遠距", "衝浪", "坦尚尼亞", "遊牧", "非洲"]
 thumbnail: https://imgur.com/2MdT0wO.jpg
 
 ---
