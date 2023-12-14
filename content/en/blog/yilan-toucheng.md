@@ -4,7 +4,7 @@ date: 2023-12-03
 lastmod: 2023-12-03
 description: "2021 冬天：遊牧和衝浪的起點"
 tags: ["遠距", "衝浪", "台東", "宜蘭", "遊牧"]
-thumbnail: https://imgur.com/fGhBr3g.jpg
+thumbnail: https://imgur.com/Gw5ifRO.jpg
 
 ---
 
