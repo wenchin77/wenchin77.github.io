@@ -4,7 +4,7 @@ date: 2023-11-21
 lastmod: 2023-11-24
 description: "看見一條由痛苦通往平靜的道路"
 tags: ["內觀", "冥想"]
-thumbnail: https://imgur.com/rHCchMD.png
+thumbnail: https://imgur.com/GJWv4X5.png
 
 ---
 
