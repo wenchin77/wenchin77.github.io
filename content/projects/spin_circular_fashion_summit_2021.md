@@ -49,5 +49,7 @@ As the Product Manager, I played a crucial role in the success of the Circular F
 
 {{< youtube -9KpJ_Nt7D8 >}}
 
+{{< youtube rkRK5RyDAuk >}}
+
 ### Reflection and Learnings
 Managing the SPIN Circular Fashion Summit 2021 was a transformative experience, as it was my first time working with XR products and defining the specifications for a VR platform. The project challenged me to push the boundaries of my technical and managerial skills, and it was immensely rewarding to see the final product come to life. This experience laid the foundation for my continued work in VR and Web3 technologies, and it reinforced the importance of cross-functional collaboration in delivering innovative digital solutions.
