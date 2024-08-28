@@ -1,7 +1,7 @@
 +++
 authors = ["Wenchin Chuang"]
 title = "SPIN x Galeries Lafayette Web3 Fashion Retail Exhibition"
-date = "2024-08-28"
+date = "2023-02-01"
 description = "SPIN x Galeries Lafayette Web3 Fashion Retail Exhibition"
 tags = [
     "spin",
@@ -45,6 +45,10 @@ The exhibition was recognized as one of the largest meta-retail events to date, 
 
 ![Come to Life](/images/glce_come_to_life.png)
 *Come to Life (AR) ([source: CFS media](https://cfs.media/articles/spin-cfs-galeries-lafayette-web3-fashion-retail-exhibition))*
+
+![New Perspective](/images/glce_new_perspective_irl.jpg)
+*New Perspective (VR Experience) - Photo by Andrew Barber([source: vogue](https://vogue.ph/lifestyle/events/how-spin-made-the-biggest-meta-retail-event-to-date/))*
+
 
 ### Reflection and Learnings
 This project was a significant milestone in my career, allowing me to blend technical expertise with creative vision. It provided invaluable experience in managing large-scale, technology-driven events and further solidified my passion for exploring the intersection of technology and fashion.
