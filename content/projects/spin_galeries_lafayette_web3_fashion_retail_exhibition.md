@@ -12,11 +12,10 @@ categories = [
     "product management",
     "project management",
 ]
-series = ["Theme Demo"]
+series = []
 +++
 
-![glce](/images/glce.png)
-*Phygital garments in display ([source: vogue](https://vogue.ph/lifestyle/events/how-spin-made-the-biggest-meta-retail-event-to-date/))*
+{{< youtube 6h_vK16BuSw >}}
 
 ### Project Overview
 The Spin x Galeries Lafayette Web3 fashion retail exhibition was a groundbreaking event that merged fashion, technology, and retail, creating an immersive Web3 experience at Galeries Lafayette Champs-Élysées. This exhibition showcased an innovative fusion of Web3 technology and fashion, incorporating augmented reality (AR), virtual reality (VR), and NFTs to create a unique retail experience.
@@ -37,6 +36,12 @@ The exhibition was recognized as one of the largest meta-retail events to date, 
 
 ### Visuals
 
+![glce](/images/glce.png)
+*Phygital garments in display ([source: vogue](https://vogue.ph/lifestyle/events/how-spin-made-the-biggest-meta-retail-event-to-date/))*
+
+![New Perspective](/images/glce_new_perspective_irl.jpg)
+*New Perspective (VR Experience) - Photo by Andrew Barber([source: vogue](https://vogue.ph/lifestyle/events/how-spin-made-the-biggest-meta-retail-event-to-date/))*
+
 ![The Dream](/images/glce_the_dream.png)
 *The Dream (Entrance of Galeries Lafayette Champs-Élysées) ([source: CFS media](https://cfs.media/articles/spin-cfs-galeries-lafayette-web3-fashion-retail-exhibition))*
 
@@ -46,11 +51,7 @@ The exhibition was recognized as one of the largest meta-retail events to date, 
 ![Come to Life](/images/glce_come_to_life.png)
 *Come to Life (AR) ([source: CFS media](https://cfs.media/articles/spin-cfs-galeries-lafayette-web3-fashion-retail-exhibition))*
 
-![New Perspective](/images/glce_new_perspective_irl.jpg)
-*New Perspective (VR Experience) - Photo by Andrew Barber([source: vogue](https://vogue.ph/lifestyle/events/how-spin-made-the-biggest-meta-retail-event-to-date/))*
-
+{{< youtube YMRIJf9_efQ >}}
 
 ### Reflection and Learnings
 This project was a significant milestone in my career, allowing me to blend technical expertise with creative vision. It provided invaluable experience in managing large-scale, technology-driven events and further solidified my passion for exploring the intersection of technology and fashion.
-
-
