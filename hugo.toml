@@ -19,7 +19,7 @@ author = "Wenchin Chuang"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Wenchin's Portfolio"
 keywords = "blog,product manager,personal"
-info = ["Technical Product Manager", "Project Manager"]
+info = ["Product Manager","with a Tech Background"]
 avatarURL = "images/avatar.jpeg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -189,7 +189,7 @@ title = "Wenchin's Portfolio"
 
 [languages.zh-tw.params]
 author = "Wenchin Chuang"
-info = ["軟體產品經理","專案經理"]
+info = ["產品經理", ""]
 description = "有技術背景的產品經理"
 keywords = "個人網頁,產品經理,專案經理,作品集"
 
